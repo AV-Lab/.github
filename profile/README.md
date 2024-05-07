@@ -3,7 +3,7 @@
 AV Lab, based in Khalifa University, is a dynamic research group dedicated to advancing the field of autonomous vehicles. Our lab focuses on developing innovative solutions and technologies to enhance vehicle autonomy and safety.
 
 ## Contribution
-We warmly welcome contributions from the community, whether it's through collaborative research, internships, or sharing of ideas and resources. If you're interested in contributing to our projects, please reach out to us via majid-khonji with your proposal or idea. We appreciate contributions of all kinds, from code to documentation, and encourage discussions that foster innovation and progress.
+We warmly welcome contributions from the community, whether it's through collaborative research, internships, or sharing of ideas and resources. If you're interested in contributing to our projects, please reach out to us via @majid-khonji with your proposal or idea. We appreciate contributions of all kinds, from code to documentation, and encourage discussions that foster innovation and progress.
 <!--
 ## Useful Resources
 - **Documentation:** For more in-depth information about our projects and research, please visit our [documentation page](#) (link to be updated).
